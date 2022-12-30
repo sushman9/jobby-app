@@ -1,0 +1,24 @@
+.filters-container {
+  width: 90%;
+}
+.employment-items-list {
+  color: #ffffff;
+  font-family: 'Roboto';
+  list-style-type: none;
+  padding-left: 0px;
+}
+.employment-container {
+}
+.employ-heading {
+  color: #ffffff;
+  font-size: 20px;
+  font-family: 'Roboto';
+}
+.filter-list-item {
+  display: flex;
+  margin-bottom: 10px;
+  padding: 0px;
+}
+.label {
+  margin: 0px;
+}
